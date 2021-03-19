@@ -1,0 +1,27 @@
+{
+    "id": "44913A8F",
+    "path": "~/Documents/RuserGroup/code/clean_mtcars_csv.R",
+    "project_path": "code/clean_mtcars_csv.R",
+    "type": "r_source",
+    "hash": "2085154696",
+    "contents": "",
+    "dirty": false,
+    "created": 1616173321701.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,0",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1616174528,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1616174528884,
+    "read_only": false,
+    "read_only_alternatives": []
+}
